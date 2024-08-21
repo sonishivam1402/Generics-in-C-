@@ -1,0 +1,15 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\bin\Debug\net8.0\GenericClassInheritance.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\bin\Debug\net8.0\GenericClassInheritance.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\bin\Debug\net8.0\GenericClassInheritance.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\bin\Debug\net8.0\GenericClassInheritance.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\bin\Debug\net8.0\GenericClassInheritance.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.sourcelink.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\refint\GenericClassInheritance.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\GenericClassInheritance.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Class Inheritance\GenericClassInheritance\GenericClassInheritance\obj\Debug\net8.0\ref\GenericClassInheritance.dll
