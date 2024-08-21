@@ -25,3 +25,6 @@ This means you can write code that works with any data type while maintaining ty
 <li>Code Reusability: You can write a generic class or method once and reuse it with different data types without rewriting the same logic.</li>
 <li>Performance: Generics eliminate the need for boxing and unboxing (when dealing with value types) and avoid the overhead of type casting, which can improve performance.</li>
 </ul>
+
+<h2>How Generics Work:</h2>
+Generics are implemented by defining a placeholder for a data type, which can then be specified when the generic type or method is used.
