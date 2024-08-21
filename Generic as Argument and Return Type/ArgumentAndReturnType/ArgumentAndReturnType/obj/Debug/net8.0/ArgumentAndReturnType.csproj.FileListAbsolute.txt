@@ -1,0 +1,15 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\bin\Debug\net8.0\ArgumentAndReturnType.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\bin\Debug\net8.0\ArgumentAndReturnType.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\bin\Debug\net8.0\ArgumentAndReturnType.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\bin\Debug\net8.0\ArgumentAndReturnType.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\bin\Debug\net8.0\ArgumentAndReturnType.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.sourcelink.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\refint\ArgumentAndReturnType.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ArgumentAndReturnType.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic as Argument and Return Type\ArgumentAndReturnType\ArgumentAndReturnType\obj\Debug\net8.0\ref\ArgumentAndReturnType.dll

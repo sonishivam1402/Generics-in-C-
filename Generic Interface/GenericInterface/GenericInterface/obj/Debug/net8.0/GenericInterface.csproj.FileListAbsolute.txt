@@ -1,0 +1,15 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\bin\Debug\net8.0\GenericInterface.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.sourcelink.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\refint\GenericInterface.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\GenericInterface.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Interface\GenericInterface\GenericInterface\obj\Debug\net8.0\ref\GenericInterface.dll
