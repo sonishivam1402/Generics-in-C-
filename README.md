@@ -2,8 +2,8 @@
 
 <h4> Q. Design such a class, so that different objects of same  class  can keep different types of data. </h4>
 
-<img src="https://github.com/user-attachments/assets/3730cbfa-e410-44dc-8f34-dd6df530c14c" width="200" />
-<img src="https://github.com/user-attachments/assets/1e795328-f53e-4cd3-b269-532012a32ca9" width="200" />
+<img src="https://github.com/user-attachments/assets/3730cbfa-e410-44dc-8f34-dd6df530c14c" width="250" />
+<img src="https://github.com/user-attachments/assets/1e795328-f53e-4cd3-b269-532012a32ca9" width="300" />
 <br>
 
 Here, we can see it shows **error** because its **type dependent**.
