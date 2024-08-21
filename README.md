@@ -7,6 +7,12 @@
 
 Here, we can see it shows error because its type dependent.
 
+<h2>Why Generics ?</h2>
+Generics allows us to make classes and methods : 
+<ul>
+<li>Type independent </li>
+<li>Type safe </li>
+</ul>
 <h3>What is Generics ? </h3>
 Generics in C# are a feature that allows you to define classes, methods, interfaces, and other types with a placeholder for the data type. <br>
 This means you can write code that works with any data type while maintaining type safety and without sacrificing performance.
