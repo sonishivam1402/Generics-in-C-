@@ -31,7 +31,7 @@ This means you can write code that works with any data type while maintaining ty
 Generics are implemented by defining a placeholder for a data type, which can then be specified when the generic type or method is used.
 
 <h2>Constraints in Generics</h2>
-There are several types of constraints to generic type parameters in order to restrict the types that can be used with your generic classes, methods, or interfaces. <br>
+There are several types of constraints to generic type parameters in order to restrict the types that can be used with your generic classes, methods, or interfaces. <br><br>
 
 1. where T : class (Reference Type Constraint)
 2. where T : struct (Value Type Constraint)
