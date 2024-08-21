@@ -12,3 +12,4 @@ F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\n
 F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.pdb
 F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
 F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.sourcelink.json

@@ -22,7 +22,7 @@ class Program
         Console.WriteLine();
     }
 
-    public static void Main(string[] args)
+    /*public static void Main(string[] args)
     {
         int[] numbers = { 1, 2, 3, 4 };
         Swap(numbers, 0, 2); // Swaps 1 and 3
@@ -31,7 +31,7 @@ class Program
         string[] words = { "Shivam", "Jiya", "Pruthuraj" };
         Swap(words, 1, 2); // Swaps "Jiya" and "Pruthuraj"
         display(words);
-    }
+    }*/
 
     
 }

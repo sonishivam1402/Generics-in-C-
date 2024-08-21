@@ -1,0 +1,15 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.sourcelink.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\bin\Debug\net8.0\GenericClass.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\bin\Debug\net8.0\GenericClass.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\bin\Debug\net8.0\GenericClass.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\bin\Debug\net8.0\GenericClass.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\refint\GenericClass.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Classes\GenericClass\GenericClass\obj\Debug\net8.0\ref\GenericClass.dll
