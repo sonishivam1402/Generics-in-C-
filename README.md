@@ -18,3 +18,10 @@ Generics allows us to make classes and methods :
 <h2>What is Generics ? </h2>
 Generics in C# are a feature that allows you to define classes, methods, interfaces, and other types with a placeholder for the data type. <br>
 This means you can write code that works with any data type while maintaining type safety and without sacrificing performance.
+
+<h2>Key Benefits of Generics:</h2>
+<ul>
+<li>Type Safety: Generics ensure that your code is type-safe at compile time, meaning errors related to type mismatches are caught early.</li>
+<li>Code Reusability: You can write a generic class or method once and reuse it with different data types without rewriting the same logic.</li>
+<li>Performance: Generics eliminate the need for boxing and unboxing (when dealing with value types) and avoid the overhead of type casting, which can improve performance.</li>
+</ul>
