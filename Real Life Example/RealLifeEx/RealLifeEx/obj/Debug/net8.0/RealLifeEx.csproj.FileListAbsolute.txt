@@ -1,0 +1,15 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\bin\Debug\net8.0\RealLifeEx.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\bin\Debug\net8.0\RealLifeEx.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\bin\Debug\net8.0\RealLifeEx.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\bin\Debug\net8.0\RealLifeEx.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\bin\Debug\net8.0\RealLifeEx.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.sourcelink.json
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\refint\RealLifeEx.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\RealLifeEx.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Real Life Example\RealLifeEx\RealLifeEx\obj\Debug\net8.0\ref\RealLifeEx.dll
