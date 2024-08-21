@@ -29,3 +29,15 @@ This means you can write code that works with any data type while maintaining ty
 
 <h2>How Generics Work:</h2>
 Generics are implemented by defining a placeholder for a data type, which can then be specified when the generic type or method is used.
+
+<h2>Constraints in Generics</h2>
+There are several types of constraints to generic type parameters in order to restrict the types that can be used with your generic classes, methods, or interfaces.
+
+1. where T : class (Reference Type Constraint)
+2. where T : struct (Value Type Constraint)
+3. where T : new() (Parameterless Constructor Constraint)
+4. where T : <base class> (Base Class Constraint)
+5. where T : <interface> (Interface Constraint)
+6. where T : U (Type Parameter Constraint)
+7. Multiple Constraints
+
