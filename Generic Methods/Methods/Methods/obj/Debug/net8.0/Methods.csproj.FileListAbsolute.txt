@@ -1,0 +1,14 @@
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\bin\Debug\net8.0\Methods.exe
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\bin\Debug\net8.0\Methods.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+F:\GIT_workspace\Generics-in-C-Sharp\Generic Methods\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
