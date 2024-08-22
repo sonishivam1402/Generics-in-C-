@@ -34,22 +34,22 @@ Generics are implemented by defining a placeholder for a data type, which can th
 There are several types of constraints to generic type parameters in order to restrict the types that can be used with your generic classes, methods, or interfaces. <br><br>
 
 **1. where T : class (Reference Type Constraint)**
-This constraint ensures that the type parameter T must be a reference type (a class, interface, delegate, or array).
+<br>This constraint ensures that the type parameter T must be a reference type (a class, interface, delegate, or array).
 
 **2. where T : struct (Value Type Constraint)**
-This constraint ensures that the type parameter T must be a value type (like int, bool, enum, or a custom struct).
+<br>This constraint ensures that the type parameter T must be a value type (like int, bool, enum, or a custom struct).
 
 **3. where T : new() (Parameterless Constructor Constraint)**
-This constraint ensures that the type parameter T must have a parameterless constructor (public).
+<br>This constraint ensures that the type parameter T must have a parameterless constructor (public).
 
 **4. where T : <base class> (Base Class Constraint)**
-This constraint ensures that the type parameter T must be a specific class or a subclass of that class.
+<br>This constraint ensures that the type parameter T must be a specific class or a subclass of that class.
 
 **5. where T : <interface> (Interface Constraint)**
-This constraint ensures that the type parameter T must implement a specific interface.
+<br>This constraint ensures that the type parameter T must implement a specific interface.
 
 **6. where T : U (Type Parameter Constraint)**
-This constraint ensures that one type parameter is a subclass of or implements another type parameter.
+<br>This constraint ensures that one type parameter is a subclass of or implements another type parameter.
 
 **7. Multiple Constraints**
-You can combine multiple constraints by separating them with commas.
+<br>You can combine multiple constraints by separating them with commas.
