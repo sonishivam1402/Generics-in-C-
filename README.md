@@ -53,3 +53,11 @@ There are several types of constraints to generic type parameters in order to re
 
 **7. Multiple Constraints**
 <br>You can combine multiple constraints by separating them with commas.
+
+![Screenshot 2024-08-21 161708](https://github.com/user-attachments/assets/9500c53d-d865-4ad7-b1d3-b266f66c6643)
+![Screenshot 2024-08-21 161735](https://github.com/user-attachments/assets/da102db4-1d6a-4c22-869e-0d914d73ca7b)
+![Screenshot 2024-08-21 161801](https://github.com/user-attachments/assets/ff407633-642c-4677-8307-d50a108bebca)
+![Screenshot 2024-08-21 161941](https://github.com/user-attachments/assets/44b57f8a-9fa5-4587-b92c-e6e168965796)
+![Screenshot 2024-08-21 161231](https://github.com/user-attachments/assets/e1ee54dc-013b-4975-90d7-697f12711b29)
+![Screenshot 2024-08-21 161316](https://github.com/user-attachments/assets/022e1537-1f2f-4807-ac59-c32727fc4554)
+![Screenshot 2024-08-21 161409](https://github.com/user-attachments/assets/b4388d69-9bc6-4b17-a9c4-51491e1d6753)
