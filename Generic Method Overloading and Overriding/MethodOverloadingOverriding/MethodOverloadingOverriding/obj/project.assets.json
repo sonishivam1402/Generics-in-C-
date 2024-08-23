@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sonis\\source\\repos\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding.csproj",
+      "projectUniqueName": "F:\\GIT_workspace\\Generics-in-C-Sharp\\Generic Method Overloading and Overriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding.csproj",
       "projectName": "MethodOverloadingOverriding",
-      "projectPath": "C:\\Users\\sonis\\source\\repos\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding.csproj",
+      "projectPath": "F:\\GIT_workspace\\Generics-in-C-Sharp\\Generic Method Overloading and Overriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding.csproj",
       "packagesPath": "C:\\Users\\sonis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sonis\\source\\repos\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\obj\\",
+      "outputPath": "F:\\GIT_workspace\\Generics-in-C-Sharp\\Generic Method Overloading and Overriding\\MethodOverloadingOverriding\\MethodOverloadingOverriding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sonis\\AppData\\Roaming\\NuGet\\NuGet.Config",

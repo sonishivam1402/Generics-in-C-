@@ -29,8 +29,6 @@ class Program
     public static void Main(string[] args)
     {
 
-
-
         Printer<int> printer = new Printer<int>();
         printer.Print(10);  // Outputs: "Printing: 10"
 

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MethodOverloadingOverriding
-build_property.ProjectDir = C:\Users\sonis\source\repos\MethodOverloadingOverriding\MethodOverloadingOverriding\
+build_property.ProjectDir = F:\GIT_workspace\Generics-in-C-Sharp\Generic Method Overloading and Overriding\MethodOverloadingOverriding\MethodOverloadingOverriding\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
